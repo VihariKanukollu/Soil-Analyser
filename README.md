@@ -3,7 +3,7 @@
 
 ## Overview
 
-This soil analysis system provides a software simulation of the AI-enabled soil testing device developed by Madhukant Patel. The software simulates the spectroscopy hardware and provides soil analysis capabilities including:
+This soil analysis system provides a software simulation of the AI-enabled soil testing device developed by Vihari Kanukollu. The software simulates the spectroscopy hardware and provides soil analysis capabilities including:
 
 - Soil nutrient analysis (N, P, K)
 - pH measurement
@@ -212,8 +212,8 @@ To improve the model with real soil samples and lab data:
 ### Getting Help
 
 For assistance with this software, contact:
-- Email: support@soil-analyzer-demo.com
-- Documentation: https://soil-analyzer-demo.com/docs
+- Email: vihari@urbankisaan.com
+- Documentation: www.farmos.ai
 
 ## Next Steps
 
