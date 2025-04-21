@@ -1,0 +1,15 @@
+{
+  "soil_type": "acidic_clay",
+  "wavelength_range": [
+    200,
+    2495
+  ],
+  "data_points": 460,
+  "soil_properties": {
+    "nitrogen": 180,
+    "phosphorus": 73,
+    "potassium": 122,
+    "ph": 7.6,
+    "organic_matter": 3.8
+  }
+}

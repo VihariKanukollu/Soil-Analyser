@@ -1,0 +1,15 @@
+{
+  "soil_type": "sandy_low_nutrients",
+  "wavelength_range": [
+    200,
+    2495
+  ],
+  "data_points": 460,
+  "soil_properties": {
+    "nitrogen": 80,
+    "phosphorus": 43,
+    "potassium": 40,
+    "ph": 5.6,
+    "organic_matter": 2.8
+  }
+}

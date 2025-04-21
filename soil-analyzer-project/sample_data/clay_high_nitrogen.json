@@ -1,0 +1,15 @@
+{
+  "soil_type": "clay_high_nitrogen",
+  "wavelength_range": [
+    200,
+    2495
+  ],
+  "data_points": 460,
+  "soil_properties": {
+    "nitrogen": 250,
+    "phosphorus": 102,
+    "potassium": 180,
+    "ph": 6.1,
+    "organic_matter": 4.5
+  }
+}
